@@ -13,6 +13,8 @@
 
 - [一文了解k8s扁平化网络Flannel](https://www.heapoverflow.cn/pages/wiki-flannel/)
 - [一文了解k8s三层网络方案host-gw](https://www.heapoverflow.cn/pages/wiki-k8s-hostgw/)
+- [一文了解k8s service](https://www.heapoverflow.cn/pages/wiki-k8s-service/)
+- [一文了解k8s服务发现之KubeDNS](https://www.heapoverflow.cn/pages/wiki-k8s-kubedns/)
 
 #### 网络基础
 
@@ -20,4 +22,5 @@
 - [一文了解 Linux network namespace](https://www.heapoverflow.cn/pages/wiki-linux-network-namespace/)
 - [一文了解 Linux 虚拟网络设备veth](https://www.heapoverflow.cn/pages/wiki-linux-network-veth/)
 - [一文了解 Linux 虚拟网络设备Bridge](https://www.heapoverflow.cn/pages/wiki-linux-network-bridge/)
+- [一文了解netfilter 和 iptables](https://www.heapoverflow.cn/pages/wiki-netfilter-iptables/)
 
