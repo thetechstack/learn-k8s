@@ -24,3 +24,10 @@
 - [一文了解 Linux 虚拟网络设备Bridge](https://www.heapoverflow.cn/pages/wiki-linux-network-bridge/)
 - [一文了解netfilter 和 iptables](https://www.heapoverflow.cn/pages/wiki-netfilter-iptables/)
 
+
+## 控制器
+
+- [一文了解Kubernetes控制器模型](https://www.heapoverflow.cn/pages/wiki-k8s-controller/)
+- [一文了解Kubernetes控制器ReplicaSet](https://www.heapoverflow.cn/pages/wiki-k8s-replicaset/)
+- [一文了解Kubernetes控制器Deployment](https://www.heapoverflow.cn/pages/wiki-k8s-deployment/)
+
